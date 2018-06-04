@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:design:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4dd6000ccb95de355d7e65014b8fa9a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f428a87228babb3ab92365561f6db6ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/42b6e2e4faa7ef8f16cf7486596de66f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/8257ae6ad43b8109d9580b7aae4965bd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/44615143b5733964e889f5f521573447/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/67881bb3c0ee897ec149bd770e6940ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/aba1599ea604c1b86d5e3f9277a236c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/97d7cf382ae7a426ec6d107f46684e5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5bcf79b1ba658d4b88dbacb18019680f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3721f41931549a7938e87185930c2ccd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/42824533ecac70373e2327997baf63de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/704387782f8c124715aefd06ede39aa6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/41bf5d7d4c19de9a5f6993b56d7702b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6b076564200e3c7e7e22adeda434cb7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/5ef0052c9cf1465fd62f9240fff696ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b17b507a64181c76d0a6fbfe96992e76/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bfc1b4dc6a7b50a167501ee121439cd1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/60498c6d8ac1ac73ba29bb2d65b820e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3eb7cddeba772d1792218d2477002c16/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/00e723610cdd98d3aac4d2c832316110/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:13:22-76
+application
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:15:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/42b6e2e4faa7ef8f16cf7486596de66f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/42b6e2e4faa7ef8f16cf7486596de66f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/8257ae6ad43b8109d9580b7aae4965bd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/8257ae6ad43b8109d9580b7aae4965bd/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/aba1599ea604c1b86d5e3f9277a236c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/aba1599ea604c1b86d5e3f9277a236c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:21:9-40
+activity#com.example.dell.appbanhang.activity.MainActivity
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:22:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.example.dell.appbanhang.activity.DienThoaiActivity
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:29:9-64
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:29:19-61
+activity#com.example.dell.appbanhang.activity.LaptopActivity
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:30:19-58
+activity#com.example.dell.appbanhang.activity.ChiTietSanPham
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:31:9-61
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:31:19-58
+activity#com.example.dell.appbanhang.activity.Giohang
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:32:19-51
+activity#com.example.dell.appbanhang.activity.ThongTinKhachHang
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:33:19-61
+activity#com.example.dell.appbanhang.activity.LoginActivity
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:34:9-59
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:34:19-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:43:9-45:55
+	android:value
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:44:13-58
+activity#com.example.dell.appbanhang.activity.ThongTinActivity
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:47:9-49:73
+	android:label
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:49:13-61
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:48:13-54
+uses-sdk
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4dd6000ccb95de355d7e65014b8fa9a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4dd6000ccb95de355d7e65014b8fa9a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f428a87228babb3ab92365561f6db6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f428a87228babb3ab92365561f6db6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/42b6e2e4faa7ef8f16cf7486596de66f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/42b6e2e4faa7ef8f16cf7486596de66f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/8257ae6ad43b8109d9580b7aae4965bd/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/8257ae6ad43b8109d9580b7aae4965bd/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/44615143b5733964e889f5f521573447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/44615143b5733964e889f5f521573447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/67881bb3c0ee897ec149bd770e6940ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/67881bb3c0ee897ec149bd770e6940ae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/aba1599ea604c1b86d5e3f9277a236c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/aba1599ea604c1b86d5e3f9277a236c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/97d7cf382ae7a426ec6d107f46684e5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/97d7cf382ae7a426ec6d107f46684e5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5bcf79b1ba658d4b88dbacb18019680f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5bcf79b1ba658d4b88dbacb18019680f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3721f41931549a7938e87185930c2ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3721f41931549a7938e87185930c2ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/42824533ecac70373e2327997baf63de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/42824533ecac70373e2327997baf63de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/704387782f8c124715aefd06ede39aa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/704387782f8c124715aefd06ede39aa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/41bf5d7d4c19de9a5f6993b56d7702b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/41bf5d7d4c19de9a5f6993b56d7702b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6b076564200e3c7e7e22adeda434cb7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6b076564200e3c7e7e22adeda434cb7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/5ef0052c9cf1465fd62f9240fff696ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/5ef0052c9cf1465fd62f9240fff696ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b17b507a64181c76d0a6fbfe96992e76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b17b507a64181c76d0a6fbfe96992e76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bfc1b4dc6a7b50a167501ee121439cd1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bfc1b4dc6a7b50a167501ee121439cd1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/60498c6d8ac1ac73ba29bb2d65b820e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/60498c6d8ac1ac73ba29bb2d65b820e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3eb7cddeba772d1792218d2477002c16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3eb7cddeba772d1792218d2477002c16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/00e723610cdd98d3aac4d2c832316110/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/00e723610cdd98d3aac4d2c832316110/AndroidManifest.xml:20:5-44
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/32f88027f88964776c5a1155ec877740/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/AndroidManifest.xml:24:13-58

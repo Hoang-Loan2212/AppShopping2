@@ -147,6 +147,18 @@ public class MainActivity extends AppCompatActivity {
                         //đóng thanh menu khi click
                         drawerLayout.closeDrawer(GravityCompat.START);
                         break;
+                    case 4:
+                        if(CheckInternet.haveNetworkConnection(getApplicationContext())){
+                            Intent intent = new Intent(MainActivity.this,ThongTinActivity.class);
+                            intent.putExtra("idloaisp",mangloaisp.get(3).getId()); //truyền dữ liệu sang màng hình khác
+                            startActivity(intent);
+                        }
+                        else {
+                            CheckInternet.showToast_short(getApplicationContext(),"Bạn hãy kiểm tra lại kết nối!");
+                        }
+                        //đóng thanh menu khi click
+                        drawerLayout.closeDrawer(GravityCompat.START);
+                        break;
                 }
             }
         });

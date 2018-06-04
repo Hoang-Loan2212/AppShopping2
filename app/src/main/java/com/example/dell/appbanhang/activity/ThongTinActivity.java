@@ -76,9 +76,13 @@ public class ThongTinActivity extends AppCompatActivity implements OnMapReadyCal
        // mMap.setMyLocationEnabled(true);
         // Add a marker in Sydney and move the camera
         LatLng dhsp = new LatLng(10.761103, 106.682844);
-        mMap.addMarker(new MarkerOptions().position(dhsp).title("Đại học sư phạm Tp.HCM").snippet("280 An Dương Vương").icon(BitmapDescriptorFactory.defaultMarker()));
+        mMap.addMarker(new MarkerOptions().position(dhsp).title("Đại học sư phạm Tp.HCM").snippet("280 An Dương Vương, Phường 4, Quận 5").icon(BitmapDescriptorFactory.defaultMarker()));
        // mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
         mMap.moveCamera(CameraUpdateFactory.newLatLng(dhsp));
+        mMap.setMinZoomPreference(12.0f);
+        mMap.setMaxZoomPreference(20.0f);
+        mMap.getUiSettings().setZoomControlsEnabled(true);
+
         //CameraPosition cameraPosition = new CameraPosition.Builder().target(dhsp).zoom(90).build();
        // mMap.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
     }
