@@ -4,41 +4,24 @@
             "outputFile": "/media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml",
             "map": [
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/res/values-my/values.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/66ccac349d0d496f8373c1a7c7e23519/res/values-my/values-my.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "212",
-                        "endOffsets": "459"
-                    },
-                    "to": {
-                        "startLines": "27",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "3142",
-                        "endColumns": "212",
-                        "endOffsets": "3350"
-                    }
-                },
-                {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f428a87228babb3ab92365561f6db6ba/res/values-my/values-my.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,1956",
-                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
-                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,2035"
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,4799",
-                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
-                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,4878"
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4883",
+                        "endColumns": "100",
+                        "endOffsets": "4979"
                     }
                 },
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/res/values-my/values.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d386b7bb6ad6978b276b2b64826aa56d/res/values-my/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,20 +38,37 @@
                     }
                 },
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b17b507a64181c76d0a6fbfe96992e76/res/values-my/values-my.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/34280b43a77bbc759f5c674fdb0a5cfc/res/values-my/values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "212",
+                        "endOffsets": "459"
                     },
                     "to": {
-                        "startLines": "38",
+                        "startLines": "27",
                         "startColumns": "4",
-                        "startOffsets": "4883",
-                        "endColumns": "100",
-                        "endOffsets": "4979"
+                        "startOffsets": "3142",
+                        "endColumns": "212",
+                        "endOffsets": "3350"
+                    }
+                },
+                {
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a56df90a23f5345185667f28881f5037/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,1956",
+                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
+                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,2035"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,4799",
+                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
+                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,4878"
                     }
                 }
             ]

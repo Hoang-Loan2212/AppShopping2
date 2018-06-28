@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <TextView
+            android:id="@+id/textView_QuenMK"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_DangNhap"
+            android:text="Quên mật khẩu? Click vào đây"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="#3030FF"
+            tools:layout_editor_absoluteX="99dp"
+            tools:layout_editor_absoluteY="483dp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toolbarlogin"
+            android:adjustViewBounds="true"
+            android:cropToPadding="true"
+            app:srcCompat="@drawable/fsic"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="56dp" />
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbarlogin"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#3030FF"
+            app:title="Đăng nhập vào tài khoản"
+            app:titleTextColor="#f4f1f0">
+
+        </android.support.v7.widget.Toolbar>
+
+        <EditText
+            android:id="@+id/editText_Password"
+            android:layout_width="338dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:layout_centerHorizontal="true"
+            android:ems="10"
+            android:inputType="textPassword"
+            android:textAlignment="viewStart"
+            android:textAppearance="@android:style/TextAppearance.Material.Small"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="367dp" />
+
+        <EditText
+            android:id="@+id/editText_Username"
+            android:layout_width="338dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView3"
+            android:layout_centerHorizontal="true"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:textAlignment="viewStart"
+            android:textAppearance="@android:style/TextAppearance.Material.Small"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="296dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="339dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/editText_Password"
+            android:layout_marginTop="253dp"
+            android:text="Email hay Tên người dùng"
+            android:textAlignment="viewStart"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="88dp"
+            tools:layout_editor_absoluteY="271dp" />
+
+        <Button
+            android:id="@+id/button_DangNhap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText_Password"
+            android:layout_centerHorizontal="true"
+            android:text="Đăng nhập"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="140dp"
+            tools:layout_editor_absoluteY="423dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="339dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText_Username"
+            android:layout_centerHorizontal="true"
+            android:text="Mật khẩu"
+            android:textAlignment="viewStart"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="88dp"
+            tools:layout_editor_absoluteY="342dp" />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -4,7 +4,7 @@
             "outputFile": "/media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/5ef0052c9cf1465fd62f9240fff696ac/res/values-v24/values-v24.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7423d0ba21b0fcb83061d9fe1741cd37/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f428a87228babb3ab92365561f6db6ba/res/values-v24/values-v24.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a56df90a23f5345185667f28881f5037/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

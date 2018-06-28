@@ -4,7 +4,7 @@
             "outputFile": "/media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
             "map": [
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/res/values-sr/values.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d386b7bb6ad6978b276b2b64826aa56d/res/values-sr/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f428a87228babb3ab92365561f6db6ba/res/values-sr/values-sr.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/66ccac349d0d496f8373c1a7c7e23519/res/values-sr/values-sr.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,1871",
-                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
-                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,1950"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,4530",
-                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
-                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,4609"
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4614",
+                        "endColumns": "100",
+                        "endOffsets": "4710"
                     }
                 },
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/res/values-sr/values.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/34280b43a77bbc759f5c674fdb0a5cfc/res/values-sr/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,20 +55,20 @@
                     }
                 },
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b17b507a64181c76d0a6fbfe96992e76/res/values-sr/values-sr.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a56df90a23f5345185667f28881f5037/res/values-sr/values-sr.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,1871",
+                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
+                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,1950"
                     },
                     "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4614",
-                        "endColumns": "100",
-                        "endOffsets": "4710"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,4530",
+                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
+                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,4609"
                     }
                 }
             ]

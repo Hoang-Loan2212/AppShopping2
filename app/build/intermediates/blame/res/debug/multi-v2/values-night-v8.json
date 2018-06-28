@@ -4,7 +4,7 @@
             "outputFile": "/media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f428a87228babb3ab92365561f6db6ba/res/values-night-v8/values-night-v8.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a56df90a23f5345185667f28881f5037/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

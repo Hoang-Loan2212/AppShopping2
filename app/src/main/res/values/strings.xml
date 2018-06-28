@@ -2,4 +2,18 @@
     <string name="app_name">AppBanHang</string>
     <string name="title_activity_thong_tin">Map</string>
     <string name="todo">TODO</string>
+    <string name="DiaChi_text">Địa chỉ:</string>
+    <string name="TGGiaoDich_text">()</string>
+    <string name="dia_chi_text">()</string>
+    <string name="dsmathangmua">Danh sách mặt hàng đã mua:</string>
+    <string name="ho_ten">Họ tên:</string>
+    <string name="ma_kh">Mã KH:</string>
+    <string name="makh_text">()</string>
+    <string name="tenKH">()</string>
+    <string name="text_sdt">SĐT:</string>
+    <string name="text_viewsdt">()</string>
+    <string name="thoidiem_gd">TG giao dịch:</string>
+    <string name="thongtinhoadon">THÔNG TIN HÓA ĐƠN</string>
+    <string name="tong">Tổng:</string>
+    <string name="tongtien_text">() VNĐ</string>
 </resources>

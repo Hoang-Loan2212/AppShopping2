@@ -32,6 +32,8 @@
         <activity android:name=".activity.Giohang" />
         <activity android:name=".activity.ThongTinKhachHang" />
         <activity android:name=".activity.LoginActivity"/>
+        <activity android:name=".activity.LichSuActivity"/>
+        <activity android:name=".activity.acti_ds_hoadon"/>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").

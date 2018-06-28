@@ -44,6 +44,8 @@
         <activity android:name="com.example.dell.appbanhang.activity.Giohang" />
         <activity android:name="com.example.dell.appbanhang.activity.ThongTinKhachHang" />
         <activity android:name="com.example.dell.appbanhang.activity.LoginActivity" />
+        <activity android:name="com.example.dell.appbanhang.activity.LichSuActivity" />
+        <activity android:name="com.example.dell.appbanhang.activity.acti_ds_hoadon" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").

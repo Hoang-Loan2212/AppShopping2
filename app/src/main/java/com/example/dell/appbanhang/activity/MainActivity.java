@@ -149,8 +149,8 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case 4:
                         if(CheckInternet.haveNetworkConnection(getApplicationContext())){
-                            Intent intent = new Intent(MainActivity.this,ThongTinActivity.class);
-                            intent.putExtra("idloaisp",mangloaisp.get(3).getId()); //truyền dữ liệu sang màng hình khác
+                            Intent intent = new Intent(MainActivity.this,LoginActivity.class);
+                            //intent.putExtra("idloaisp",mangloaisp.get(3).getId()); //truyền dữ liệu sang màng hình khác
                             startActivity(intent);
                         }
                         else {

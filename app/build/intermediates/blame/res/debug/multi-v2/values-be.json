@@ -4,7 +4,7 @@
             "outputFile": "/media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
             "map": [
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/20d4e93500d34cff68d5778cf6737955/res/values-be/values.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/34280b43a77bbc759f5c674fdb0a5cfc/res/values-be/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f428a87228babb3ab92365561f6db6ba/res/values-be/values-be.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/66ccac349d0d496f8373c1a7c7e23519/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "108",
+                        "endOffsets": "159"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4695",
+                        "endColumns": "108",
+                        "endOffsets": "4799"
+                    }
+                },
+                {
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a56df90a23f5345185667f28881f5037/res/values-be/values-be.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e165ea027f59cf9b4607cd73d3c37252/res/values-be/values.xml",
+                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d386b7bb6ad6978b276b2b64826aa56d/res/values-be/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,23 +69,6 @@
                         "startOffsets": "1893,2002,2196,2323,2435,2649,2777,2922,3260,3481,3590,3784,3914,4126,4315,4414,4506",
                         "endColumns": "108,193,126,111,213,127,144,132,220,108,193,129,211,188,98,91,107",
                         "endOffsets": "1997,2191,2318,2430,2644,2772,2917,3050,3476,3585,3779,3909,4121,4310,4409,4501,4609"
-                    }
-                },
-                {
-                    "source": "/home/moccax1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b17b507a64181c76d0a6fbfe96992e76/res/values-be/values-be.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "108",
-                        "endOffsets": "159"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4695",
-                        "endColumns": "108",
-                        "endOffsets": "4799"
                     }
                 }
             ]

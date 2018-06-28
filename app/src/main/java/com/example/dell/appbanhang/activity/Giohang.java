@@ -51,6 +51,11 @@ public class Giohang extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if(MainActivity.manggiohang.size() > 0){
+                    if (true) //đã đăng nhập thì thế đoạn code vào phần /.....
+                    {
+                        //..............
+
+                    }
                     Intent intent = new Intent(getApplicationContext(),ThongTinKhachHang.class);
                     startActivity(intent);
                 }
