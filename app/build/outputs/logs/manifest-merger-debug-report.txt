@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
-INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
-INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
-INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
 MERGED from [com.android.support:design:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1ffb67d3306a8cffe638927011e961f4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/moccax1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a56df90a23f5345185667f28881f5037/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fd2dccb0b00f138c787f078333457e84/AndroidManifest.xml:2:1-11:12
@@ -27,20 +27,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/moccax1/.gradle/c
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a9809c48c6236d51d4192b27fae11f88/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0ccd6dcc8d0ef2a679187fcba0c99f3/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/64ce192669dcd084f1104c5c02986242/AndroidManifest.xml:17:1-22:12
-INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
-INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
-INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
 	package
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
 		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
-		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
 		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
-		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-54:12
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:1-57:12
 		INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:2:11-69
@@ -61,7 +61,7 @@ ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/mai
 	android:name
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:13:22-76
 application
-ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:15:5-52:19
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:15:5-55:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fd2dccb0b00f138c787f078333457e84/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fd2dccb0b00f138c787f078333457e84/AndroidManifest.xml:9:5-20
 MERGED from [com.android.volley:volley:1.0.0] /home/moccax1/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/9daca711c6e38ca6650641feb28836b0/AndroidManifest.xml:9:5-20
@@ -121,15 +121,15 @@ ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/mai
 	android:name
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:33:19-61
 activity#com.example.dell.appbanhang.activity.LoginActivity
-ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:34:9-59
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:34:9-60
 	android:name
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:34:19-57
 activity#com.example.dell.appbanhang.activity.LichSuActivity
-ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:35:9-60
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:35:9-61
 	android:name
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:35:19-58
 activity#com.example.dell.appbanhang.activity.acti_ds_hoadon
-ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:36:9-60
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:36:9-61
 	android:name
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:36:19-58
 meta-data#com.google.android.geo.API_KEY
@@ -139,11 +139,23 @@ ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/mai
 	android:name
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:46:13-58
 activity#com.example.dell.appbanhang.activity.ThongTinActivity
-ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:49:9-51:73
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:49:9-51:64
 	android:label
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:51:13-61
 	android:name
 		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:50:13-54
+activity#com.example.dell.appbanhang.activity.login
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:52:9-52
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:52:19-49
+activity#com.example.dell.appbanhang.login
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:53:9-43
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:53:19-40
+activity#com.example.dell.appbanhang.Register
+ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:54:9-55
+	android:name
+		ADDED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml:54:19-43
 uses-sdk
 INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /media/moccax1/KuWinData/GitData/AndroidApps/AppShopping2/app/src/main/AndroidManifest.xml

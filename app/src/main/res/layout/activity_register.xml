@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:text="Đăng ký"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+
+        android:layout_marginTop="15dp"
+        android:id="@+id/edittk"
+        android:hint="Nhập tài khoản"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+    <EditText
+
+        android:layout_marginTop="15dp"
+        android:id="@+id/editmk"
+        android:hint="Nhập mật khẩu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword" />
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+
+            android:layout_marginRight="30dp"
+            android:id="@+id/buttondk"
+            android:text="Đăng ký"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:ignore="ButtonStyle"
+            android:layout_marginEnd="30dp"
+            android:onClick="Onreg"/>
+        <Button
+            android:onClick="huy"
+            android:id="@+id/buttonhuy"
+            android:text="Hủy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:ignore="ButtonStyle" />
+    </LinearLayout>
+
+</LinearLayout>

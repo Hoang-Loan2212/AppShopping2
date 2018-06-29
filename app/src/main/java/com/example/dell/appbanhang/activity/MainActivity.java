@@ -29,6 +29,7 @@ import com.android.volley.toolbox.Volley;
 import com.example.dell.appbanhang.R;
 import com.example.dell.appbanhang.adapter.LoaispAdapter;
 import com.example.dell.appbanhang.adapter.SanphamAdapter;
+import com.example.dell.appbanhang.login;
 import com.example.dell.appbanhang.model.Giohang;
 import com.example.dell.appbanhang.model.Loaisp;
 import com.example.dell.appbanhang.model.Sanpham;
@@ -147,7 +148,7 @@ public class MainActivity extends AppCompatActivity {
                         //đóng thanh menu khi click
                         drawerLayout.closeDrawer(GravityCompat.START);
                         break;
-                    case 4:
+                    /*case 4:
                         if(CheckInternet.haveNetworkConnection(getApplicationContext())){
                             Intent intent = new Intent(MainActivity.this,LoginActivity.class);
                             //intent.putExtra("idloaisp",mangloaisp.get(3).getId()); //truyền dữ liệu sang màng hình khác
@@ -158,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
                         }
                         //đóng thanh menu khi click
                         drawerLayout.closeDrawer(GravityCompat.START);
-                        break;
+                        break;*/
                 }
             }
         });
@@ -223,7 +224,9 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                     mangloaisp.add(3, new Loaisp(0, "Thông Tin", "https://i.imgur.com/ip6p5h0.jpg"));
+                    mangloaisp.add(4, new Loaisp(0, "Đăng nhập", "https://i.imgur.com/ip6p5h0.jpg"));
                 }
+
 
             }
         }, new Response.ErrorListener() {
@@ -292,6 +295,11 @@ public class MainActivity extends AppCompatActivity {
             manggiohang = new ArrayList<>();
         }
     }
+    public void Dk(View view) {
+        startActivity (new Intent(this,login.class));
+    }
+
+
 
 
 

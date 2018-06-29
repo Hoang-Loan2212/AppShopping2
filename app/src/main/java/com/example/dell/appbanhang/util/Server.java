@@ -1,7 +1,7 @@
 package com.example.dell.appbanhang.util;
 
 public class Server {
-    private static String localhost = "192.168.0.102";
+    private static String localhost = "192.168.43.41";
     public static String Duongdanloaisp = "http://" + localhost + "/server/getloaisp.php";
     public static String Duongdanspmoinhat = "http://" + localhost + "/server/getsanphammoinhat.php";
     public static String Duongdandienthoai = "http://" + localhost + "/server/getidsanpham.php?page=";

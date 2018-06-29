@@ -61,6 +61,9 @@
         <activity
             android:name="com.example.dell.appbanhang.activity.ThongTinActivity"
             android:label="@string/title_activity_thong_tin" />
+        <activity android:name="com.example.dell.appbanhang.activity.login" />
+        <activity android:name="com.example.dell.appbanhang.login" />
+        <activity android:name="com.example.dell.appbanhang.Register" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
